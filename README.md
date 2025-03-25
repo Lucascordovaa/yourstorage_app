@@ -20,6 +20,8 @@ Try YourStorage! now: **[Live Demo](https://yourstorage-app.vercel.app/sign-in)*
 
 ![signup](https://github.com/Lucascordovaa/yourstorage_app/blob/e3222ed6edf42ec6131670933ab3dedadb482ee1/signup.PNG)
 
+![otp](https://github.com/Lucascordovaa/yourstorage_app/blob/a9677fe6870a35fc4d0e82932f8683c03fb9650d/otp.PNG)
+
 ## Local Setup
 
 YourStorage! relies on Appwrite for authentication, database, and file storage. Since the Appwrite instance is tied to a specific account, running the project locally requires setting up your own Appwrite backend.
