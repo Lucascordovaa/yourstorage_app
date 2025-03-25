@@ -10,14 +10,13 @@ YourStorage! is a secure and user-friendly cloud file storage web application th
 - **Next.js & TypeScript**: Developed using Next.js for a fast and efficient user experience.
 - **Database Integration**: Uses Appwrite for seamless data storage and retrieval.
 
-## Screenshots
-
-![main page](https://github.com/Lucascordovaa/yourstorage_app/blob/f6430cb1e17a90051fc89d564eca51260f50fc7d/mainpage.PNG)
-
-
 ## Live Demo
 
 Try YourStorage! now: **[Live Demo](https://yourstorage-app.vercel.app/sign-in)**
+
+## Screenshots
+
+![main page](https://github.com/Lucascordovaa/yourstorage_app/blob/f6430cb1e17a90051fc89d564eca51260f50fc7d/mainpage.PNG)
 
 ## Local Setup
 
