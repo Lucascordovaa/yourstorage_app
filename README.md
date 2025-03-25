@@ -12,7 +12,8 @@ YourStorage! is a secure and user-friendly cloud file storage web application th
 
 ## Screenshots
 
-[image goes here]
+![main page](https://github.com/Lucascordovaa/yourstorage_app/blob/f6430cb1e17a90051fc89d564eca51260f50fc7d/mainpage.PNG)
+
 
 ## Live Demo
 
